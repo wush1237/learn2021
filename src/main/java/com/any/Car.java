@@ -1,3 +1,5 @@
+package com.any;
+
 public class Car {
     private int num;
     private double gas;
